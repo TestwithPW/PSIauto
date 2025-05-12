@@ -1,0 +1,5 @@
+C:\Users\prasa\eclipse-workspace\psi_Auto5\target\classes
+C:\Users\prasa\eclipse-workspace\psi_Auto5\target\test-classes
+C:\Users\prasa\.m2\repository\org\testng\testng\7.8.0\testng-7.8.0.jar
+C:\Users\prasa\.m2\repository\org\seleniumhq\selenium\selenium-java\4.11.0\selenium-java-4.11.0.jar
+C:\Users\prasa\.m2\repository\org\seleniumhq\selenium\selenium-java\4.11.0\lib\*
